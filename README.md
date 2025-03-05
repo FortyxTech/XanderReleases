@@ -12,10 +12,10 @@ Xander is now available for the following platforms:
 
 | Platform | Download Link |
 |----------|---------------|
-| macOS (Apple Silicon) | [Download Xander-macOS-arm64.dmg](#) |
+| macOS (Apple Silicon) | [Download Xander-macOS-arm64.dmg](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.4/Fortyx.Xander_0.1.4_aarch64.dmg) |
 | macOS (Intel x64) | [Download Xander-macOS-x64.dmg](#) |
-| Windows (x64) | [Download Xander-Windows-x64.exe](#) |
-| Ubuntu (x64) | [Download Xander-Linux-x64.AppImage](#) |
+| Windows (x64) | [Download Xander-Windows-x64.exe](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.4/Fortyx.Xander_0.1.4_x64_en-US.msi) |
+| Ubuntu (x64) | [Download Xander-Linux-x64.AppImage](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.4/Fortyx.Xander_0.1.4_amd64.AppImage) |
 
 ## Installation Instructions
 
@@ -57,16 +57,9 @@ Xander is now available for the following platforms:
 - 5GB available storage
 - Nvidia GPU with 4GB graphics RAM
 
-## Release Notes
-
-### v1.0.0
-- Initial public release
-- Cross-platform support for macOS, Windows, and Ubuntu
-- Core functionality implemented
-
 ## Feedback and Support
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/FortyxTech/XanderReleases/issues) on our GitHub repository.
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://airtable.com/appVQa6gcbVggerqN/pagCnbkcW3r0RF4YT/form) on our Airtable.
 
 ---
 
