@@ -4,17 +4,17 @@ Welcome to the official downloads page for Xander. Here you can find the latest 
 
 ## Latest Release
 
-### v0.1.4
+### v0.1.5
 
-Release Date: March 4, 2025
+Release Date: March 11, 2025
 
 Xander is now available for the following platforms:
 
 | Platform | Download Link |
 |----------|---------------|
-| macOS (Apple Silicon) | [Download Xander-macOS-arm64.dmg](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.4/Fortyx.Xander_0.1.4_aarch64.dmg) |
+| macOS (Apple Silicon) | [Download Xander-macOS-arm64.dmg](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.5/Fortyx.Xander_0.1.5_aarch64.dmg) |
 | macOS (Intel x64) | [Download Xander-macOS-x64.dmg](#) |
-| Windows (x64) | [Download Xander-Windows-x64.exe](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.4/Fortyx.Xander_0.1.4_x64_en-US.msi) |
+| Windows (x64) | [Download Xander-Windows-x64.exe](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.5/Fortyx.Xander_0.1.5_x64_en-US.msi) |
 | Ubuntu (x64) | [Download Xander-Linux-x64.AppImage](https://github.com/FortyxTech/XanderReleases/releases/download/V0.1.4/Fortyx.Xander_0.1.4_amd64.AppImage) |
 
 ## Installation Instructions
